@@ -1,4 +1,5 @@
 **Movie Streaming Website**
+
 This project is a Movie Streaming Website built using React, which dynamically fetches movie data from the OMDb API and displays movie posters, trailers, and descriptions. Users can explore different genres like Netflix Originals, Action, Drama, Romance, and Horror, with an interactive interface.
 
 Table of Contents
